@@ -31,13 +31,13 @@ define('RSSSL_KEY', 'eEdHei2w6j9MLRuyNpzY3l28ISFe4omrhJjeWbdkmHgV6syhPAdfWkJkJle
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'jbsignb1_wp479' );
+define( 'DB_NAME', 'antgroupsmy' );
 
 /** Database username */
-define( 'DB_USER', 'jbsignb1_wp479' );
+define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'kL@p676S[p' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
