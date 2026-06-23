@@ -1,1 +1,0 @@
-[27-Jan-2026 10:27:54 UTC] PHP Warning:  Attempt to read property "data" on null in /home/jbsignb1/antgroups.my/wp-content/plugins/complianz-gdpr/cookie/class-sync.php on line 181
