@@ -242,7 +242,7 @@
                     </p>
                     <div class="text-xs font-bold text-teal-700">
                         <p><i class="fa-solid fa-phone mr-2"></i>+6016-701 3295</p>
-                        <p><i class="fa-solid fa-envelope mr-2"></i>kl@antsignage.com</p>
+                        <p><i class="fa-solid fa-envelope mr-2"></i>antadv.rei@gmail.com</p>
                     </div>
                 </div>
 
