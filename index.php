@@ -254,7 +254,7 @@
                     </p>
                     <div class="text-xs font-bold text-teal-700">
                         <p><i class="fa-solid fa-phone mr-2"></i>+65 8286 1600</p>
-                        <p><i class="fa-solid fa-envelope mr-2"></i>sales@atprinting.com.sg</p>
+                        <p><i class="fa-solid fa-envelope mr-2"></i>antadv.gan@gmail.com</p>
                     </div>
                 </div>
 
