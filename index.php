@@ -230,7 +230,9 @@
                     </p>
                     <div class="text-xs font-bold text-teal-700">
                         <p><i class="fa-solid fa-phone mr-2"></i>+6016-789 1110</p>
-                        <p><i class="fa-solid fa-envelope mr-2"></i>sales@antsignage.com</p>
+                        <p><i class="fa-solid fa-phone mr-2"></i>+60 16-775 5815</p>
+                        <p><i class="fa-solid fa-envelope mr-2"></i>antadv.tan@gmail.com</p>
+                        <p><i class="fa-solid fa-envelope mr-2"></i>antadv.albert@gmail.com</p>
                     </div>
                 </div>
 
